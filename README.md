@@ -55,7 +55,6 @@ Create a structuring element (kernel) of suitable size.
 
 Compare the original, opened, and closed images.
 
-## Program
 
 ## PROGRAM
 ```python
